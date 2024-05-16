@@ -3,6 +3,11 @@
 Example of using PlantCV tools with a Spectral Match Filter Detection Tool from the GatorSense HSI Toolkit https://github.com/GatorSense/hsi_toolkit_py. In this example we identify spectra for training the SMF detector. Then use the identified spectra for detection on the original image used for training, a new image (with infection), and a new image (without infection; mock infected). You would not run this workflow in parallel as it is. There are steps here that make it easier to develop a workflow but that do not make sense to run in parallel. This notebook would also likely be run in two parts. Part one: Identification of spectra for matching. Part 2: Detection using SMF on one image. Here we're showing detection on three images for demonstration purposes.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-hyperspectral-smf/HEAD?labpath=index.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-hyperspectral-smf-detection.git">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+[![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)
+](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral-smf-detection.git)
 
 ## Tutorial tags/keywords
 
