@@ -8,6 +8,9 @@ Example of using PlantCV tools with a Spectral Match Filter Detection Tool from 
 <a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-hyperspectral-smf-detection.git">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+<a href="https://doi.org/10.5281/zenodo.17229441">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17229441.svg" alt="DOI">
+</a>
 
 ## Tutorial tags/keywords
 
