@@ -1,2 +1,3 @@
 ipympl
 plantcv
+hsi_toolkit @ git+https://github.com/HaleySchuhl/hsi_toolkit_py.git@empty_init_files
