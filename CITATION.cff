@@ -1,0 +1,26 @@
+cff-version: 1.0.0
+authors:
+- family-names: Schuhl
+  given-names: Haley
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-8825-8297"
+- family-names: Kenney
+  given-names: Samuel
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0009-0007-6021-9169"
+- family-names: Sumner
+  given-names: Josh
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-3399-9063"
+- family-names: Gehan
+  given-names: Malia
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-3238-2627"
+- family-names: Hernandez
+  given-names: Gabriela
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0009-0009-5227-8278"
+title: "PlantCV spectral match filter detection tutorial with hyperspectral data"
+version: 1.1
+doi: 
+date-released: 2026
